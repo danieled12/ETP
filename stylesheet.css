@@ -1,0 +1,807 @@
+body {
+	background-color: white;
+	font-family: Perpetua;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0;
+}
+
+html {
+		overflow-x: hidden;
+		height: 100%;
+		width: 100%;
+}
+
+@media screen and (max-width: 600px)
+{
+    .navbackground
+    {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 950px)
+{
+    .top2
+    {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .top1 p
+    {
+        width: 30%;
+				margin: -6% 0% -10% -1%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .redbackground3
+    {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .whitebackground
+    {
+        height: 30%;
+    }
+}
+
+@media screen and (max-width: 767px)
+{
+    .top3 p
+    {
+				width: 30%;
+				margin: -24%;
+				margin-top: -16%;
+				font-size: 1.5vh;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .reserve
+    {
+        width: 30%;
+				text-align: center;
+				margin-left: -10%;
+				padding-top: -10%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .top1
+    {
+      	font-size: 1.7vh;
+				white-space: pre-wrap;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .top1 h1
+    {
+				margin-top: 0%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .menu2
+    {
+        width: 30%;
+				text-align: left;
+				margin-left: -23.5%;
+				padding-top: 27%;
+				padding-bottom: 0%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .hiring2
+    {
+        width: 30%;
+				text-align: left;
+				margin-left: -20%;
+				padding-top: -10%;
+				font-size: 1.6vh;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .menuback2
+    {
+        width: 37%;
+				margin-left: 10%;
+				font-size: 1.6vh;
+				text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .menuback1 p
+    {
+        width: 60%;
+				margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .redbackground3
+    {
+        height: 100vh;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .redbackground2
+    {
+        height: 185vh;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .aboutback2
+    {
+				padding-left: 0%;
+        width: 37%;
+				font-size: 1.6vh;
+				text-align: center;
+
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .aboutback1 p
+    {
+        width: 60%;
+				margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .redbackground5
+    {
+        height: 50vh;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .contactback2
+    {
+				padding-left: 3%;
+        width: 33%;
+				font-size: 1.6vh;
+				text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    body .contactback2 img
+    {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 600px)
+{
+    .hiring2 p
+    {
+        width: 80%;
+				font-size: 1.6vh;
+    }
+}
+
+@media screen and (max-width: 900px)
+{
+    .hiring1
+    {
+        display: none;
+				text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px)
+{
+    .contact_us
+    {
+        margin-top: %;
+				margin-left: -15%;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+    .location2 h1
+    {
+				margin-top: 40%;
+        margin-left: -15%;
+				font-size: 2.5vh;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+    .location2 h2
+    {
+				font-size: 2vh;
+    }
+}
+
+
+@media screen and (max-width: 768px)
+{
+    .location1 h1
+    {
+				margin-top: 10%;
+        margin-left: -15%;
+				font-size: 2vh;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    .new-image img {
+
+         max-width: 250px;
+				 height: 200px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    .new-text p {
+
+         width: 180px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    .new-image2 img {
+
+         max-width: 250px;
+				 height: 200px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    .new-text2 p {
+
+         width: 180px;
+    }
+}
+
+@media screen and (min-width: 600px)
+{
+    .header-container
+    {
+				margin-top: 0;
+    }
+}
+
+
+.clearboth {
+	clear:both;
+}
+
+.header-container {
+  text-align: center;
+  margin-top: -2.8%
+}
+
+.triangle1 {
+  text-align: right;
+}
+
+.triangle2 {
+  padding: 0;
+  margin-top: -20%;
+}
+
+.shape-image img {
+  max-width:100%;
+    height:auto;
+}
+
+.header-image img {
+  max-width:100%;
+    height:auto;
+}
+
+.whats-new{
+	display: flex;
+  margin-left: 5%;
+}
+
+.whats-new2 {
+	display: flex;
+  margin-left: 9%;
+	margin-top: 2%;
+}
+
+.new-text {
+  text-align: center;
+  margin-top: 7%;
+	margin-left: 20px;
+
+}
+
+.new-text p {
+	word-wrap: break-word;
+	font-size: 1em;
+}
+
+.new-text2 {
+  text-align: left;
+  margin-top: 6%;
+	margin-left: 20px;
+}
+
+.new-text2 p {
+	word-wrap: break-word;
+	font-size: 1em;
+}
+
+.bar-tech {
+	margin-top: 1%;
+	margin-left: 25%;
+}
+
+.bar-tech-image img {
+	max-width:100%;
+    height:auto;
+}
+
+.bar-tech2 {
+	margin-top: 1%;
+	margin-left: 2em;
+	text-align: center;
+}
+
+.bar-tech2-image img {
+	max-width:100%;
+    height:auto;
+}
+
+.new-tech {
+margin-left: 28.6%;
+}
+
+.new-tech-image img {
+	max-width:100%;
+    height:auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+	margin: 5% 10% 0 5.5%;
+}
+
+.column2 {
+	margin-top: 1%;
+}
+
+.logo {
+	text-align:center;
+	height: auto;
+	max-width: auto;
+	padding: 0px 65px 0px 0px;
+	background-size: contain;
+}
+
+.navbackground {
+	height: 91px;
+	margin: 0px;
+}
+
+.navbackground1 {
+	height: 50px;
+	margin: 0px;
+	background-color: #7a0026;
+}
+
+nav {
+	background-color: #7a0026;
+	text-align: center;
+	padding: 30px;
+	margin-top: -10px;
+}
+
+nav a {
+	color:white;
+	text-decoration:none;
+	margin: 20px;
+	font-size: 150%;
+}
+
+.whitebackground {
+	height: auto;
+	min-width: 100%;
+	margin:auto;
+	background-color:#ffffff;
+}
+
+.top1 {
+	margin:0px 0px 30px 70px;
+	background-color:;
+	float:left;
+}
+
+.top1 p {
+	white-space: pre-wrap;
+}
+
+.top2 {
+	margin:0px 0px 0px 20px;
+	background-color:;
+	float:left;
+	height: 100%;
+}
+
+.welcome {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+
+}
+
+p {
+    width:420px;
+	line-height: 35px;
+	font-size: 1.6vh;
+	font-family: Perpetua;
+}
+
+h2 {
+	font-family: Perpetua
+}
+
+.top1 h1 {
+    color:;
+    font-size: 320%;
+	font-family: Perpetua Titling MT;
+
+}
+
+.reserve {
+	padding-left: 80px;
+	padding-top: 20px;
+}
+
+.menubackground {
+	background-image:url("../images/menu_back_real.jpg");
+	height: 449px;
+	width: 100%;
+}
+
+.menu {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+
+}
+
+.top3 {
+
+	margin:0px 0px 30px 250px;
+	background-color:;
+	float:left;
+	text-align:center;
+	font-size: 110%;
+	color:white;
+}
+
+.top3 h1 {
+	font-size: 320%;
+	font-family: Perpetua Titling MT;
+}
+
+.reserve {
+	padding-left: 80px;
+	padding-top: 20px;
+}
+
+.redbackground {
+	margin:0px;
+	background-color:#531919;
+	height: 470px;
+}
+
+.redbackground2 {
+	margin:0px;
+	background-color:#531919;
+	height: 1200px;
+}
+
+.redbackground3 {
+	margin:0px;
+	background-color:#531919;
+	height: 700px;
+}
+
+.redbackground4 {
+	margin:0px;
+	background-color:#531919;
+	height: 400px;
+}
+
+.redbackground5 {
+	margin:0px;
+	background-color:#531919;
+	height: 800px;
+}
+
+.hiring {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+}
+
+.hiring1 {
+
+	margin:90px 0px 30px 70px;
+	background-color:;
+	float:left;
+}
+
+.hiring2 {
+	width:350px;
+	margin:10px 0px 30px 50px;
+	background-color:;
+	float:left;
+	height: 400px;
+	color:white;
+}
+
+.hiring2 h1 {
+	font-size: 300%;
+	font-family: Perpetua Titling MT;
+}
+
+.contact_us {
+	padding-left: 80px;
+	padding-top: 12px;
+}
+
+.whitebackground2 {
+	margin:0px;
+	background-color:white;
+	height: 214px;
+}
+
+.location {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+}
+
+.location1 {
+
+	margin:30px 0px 30px 120px;
+	background-color:;
+	float:left;
+}
+
+.location2 {
+	width:300px;
+	margin:-185px 0px 30px 80px;
+	background-color:;
+	float:left;
+
+}
+
+.location2 h2 {
+	line-height:40px;
+	font-family: Perpetua;
+}
+
+footer {
+	background-color:#76141a;
+	text-align:center;
+	padding-top:35px;
+	color: #39b54a;
+	margin: 0px auto;
+	padding: 15px;
+}
+
+footer a {
+	color:white;
+	text-decoration:none;
+	margin: 0px 20px 0px 0px;
+	font-size: 120%;
+}
+
+.spacer2 {
+	height:54px;
+	background-color: #531919;
+	margin: 0px auto;
+}
+
+.spacetext {
+	text-align:center;
+	padding-top:20px;
+	color: white;
+	margin: 0px auto;
+	text-decoration:none;
+}
+
+.spacetext a:link {
+	color: white;
+	text-decoration: none;
+}
+
+.spacetext a:visited {
+    color: white;
+		text-decoration: none;
+}
+
+.spacetext a:hover {
+    color: grey;
+		text-decoration: none;
+}
+
+.nav1 {
+	width: 600px;
+	padding-top: 30px;
+	padding-left: 160px;
+}
+
+.footer1 {
+	padding: 10px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.footerbackground {
+	height:151px;
+	margin:0px;
+	background-color:#76141a;
+}
+
+.aboutback1 {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+}
+
+.aboutback2 {
+	color:white;
+	padding-top: 20px;
+	padding-left: 5%;
+	margin:-1% 0px 30px 0%;
+
+
+}
+
+.ribbon {
+	float: left;
+    margin: 0px 0px 0px 0px;
+}
+
+.aboutback2 p {
+	width: 600px;
+	font-size: 110%;
+}
+
+.menuback1 {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+}
+
+.menuback2 {
+	margin:-5px 0px 30px 0%;
+	background-color:;
+	padding-top: 20px;
+	color:white;
+	text-align:center;
+
+}
+
+.menuback2 h1 {
+	text-align: center;
+}
+
+.menuback2 h2 {
+	text-align: center;
+	font-size: 100%;
+
+}
+
+.contactback2 h1 {
+	text-align: center;
+	font-size: 180%;
+}
+
+.contactback2 h2 {
+	text-align: center;
+	font-size: 130%;
+}
+
+.menuback2 p {
+	text-align: center;
+	font-size: 100%;
+	margin-left: 30%;
+
+}
+
+.contactback1 {
+	width:980px;
+	margin:0px auto;
+	background-color:;
+}
+
+.contactback2 {
+	margin:-1% 0px 30px 0%;
+	background-color:;
+	padding-top: 20px;
+	color:white;
+	text-align:center;
+
+}
+
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: #531919;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: #531919;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: white;
+  color: white;
+}
